@@ -1,4 +1,4 @@
-# ZPM Packages
+# ZPM Packages (👀![Organization Views](https://komarev.com/ghpvc/?username=zpm-packages\&color=blue))
 
 Open-source libraries and reusable packages developed by **ZPM Labs**.
 
